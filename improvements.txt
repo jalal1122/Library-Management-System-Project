@@ -1,0 +1,4 @@
+multiple accounts for staff roles
+multiple roles and functions distribution
+
+roles:  receptionist       Records manager     
